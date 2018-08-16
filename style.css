@@ -1,0 +1,42 @@
+body {
+   background-color: #778899;
+   height: 100%; 
+}
+ 
+h2 {
+  color: #fff;
+}
+ 
+.login {
+  padding: 3em;
+  margin: 1em auto;
+  width: 20em;
+  background: #FFFFFF;
+  border-radius: 3px;
+}
+ 
+label {
+  font-size: 15pt;
+  color: #555;
+}
+ 
+input[type="text"],
+input[type="password"],
+textarea {
+  padding: 8px;
+  width: 95%;
+  background: #efefef;
+  border: 0;
+  font-size: 10pt;
+  color: #555;
+  margin: 6px 0px;
+}
+ 
+.tombol {
+  background: #3498db;
+  font-size: 12pt;
+  color: #fff;
+  border: 0;
+  padding: 5px 8px;
+  margin: 20px 0px;
+}
